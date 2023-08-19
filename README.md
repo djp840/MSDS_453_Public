@@ -1,6 +1,7 @@
 # MSDS_453_Public
 Northwestern University
-Artificial Intelligence and Deep Learning
+
+Natural Language Processing 
 
 MSDS 453 - Thank you !!! 
 
